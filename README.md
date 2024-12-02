@@ -65,6 +65,7 @@ This dataset contains aging data of lithium-ion battery cells subjected to a typ
 - **Link**: [Download Dataset](https://osf.io/qsabn/?view_only=2a03b6c78ef14922a3e244f3d549de78)
 - **Related Articles**:
   - [Lithium-ion battery aging dataset based on electric vehicle real-driving profiles](https://www.sciencedirect.com/science/article/pii/S2352340922002062?via%3Dihub)
+  - [Domain knowledge-guided machine learning framework for state of health estimation in Lithium-ion batteries](https://www.nature.com/articles/s44172-024-00304-2#Abs1)
 
 
 ### 8. Experimental data of lithium-ion batteries under galvanostatic discharge tests at different C-rates and temperatures
