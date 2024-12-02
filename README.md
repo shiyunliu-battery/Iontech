@@ -282,6 +282,10 @@ The dataset contains over 3 billion data points from 228 commercial NMC/C+SiO li
   - [Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions](https://www.nature.com/articles/s41467-024-54454-0#Abs1)
 
 
+### 35. Source data: Reuse and recycling pathway of retired-batteries
+- **Link**: [Download Dataset](https://github.com/RuifeiMa/Reuse-and-recycling-pathway-of-retired-batteries)
+- **Related Articles**:
+  - [Pathway decisions for reuse and recycling of retired lithium-ion batteries considering economic and environmental functions](https://www.nature.com/articles/s41467-024-52030-0#Abs1)
   
 ---
 
