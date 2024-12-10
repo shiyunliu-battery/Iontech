@@ -296,7 +296,11 @@ The dataset contains over 3 billion data points from 228 commercial NMC/C+SiO li
 - **Related Articles**:
   - [Challenges and opportunities in truck electrification revealed by big operational data](https://www.nature.com/articles/s41560-024-01602-x#Abs1)
 
-  
+### 38. Dataset - Dynamic cycling enhances battery lifetime
+- **Link**: [Download Dataset](https://purl.stanford.edu/td676xr4322)
+- **Related Articles**:
+  - [Dynamic cycling enhances battery lifetime](https://www.nature.com/articles/s41560-024-01675-8#data-availability)
+    
 ---
 
 Links to external sites
