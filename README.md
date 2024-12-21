@@ -300,7 +300,13 @@ The dataset contains over 3 billion data points from 228 commercial NMC/C+SiO li
 - **Link**: [Download Dataset](https://purl.stanford.edu/td676xr4322)
 - **Related Articles**:
   - [Dynamic cycling enhances battery lifetime](https://www.nature.com/articles/s41560-024-01675-8#data-availability)
-    
+
+
+### 39. Stanford Long Term Calendar Aging Dataset
+This dataset contains calendar aging from eight different cell types stored at 2 different SOCs and 4 different temperatures. The raw data contains all the voltage and current data at each diagnostic cycle conducted at regular intervals throughout the storage period for the cells. Cell Types: K2 Energy LFP18650E/K2 Energy LFP18650P/Panasonic NCR18650B/Panasonic NCR18650GA/Sony-Murata US18650VTC6/Tenergy 302030/Ultralife 502030/Ultralife UBP001; Storage SOC Conditions: 50%/100%; Storage Temperatures: 24°C/45°C/60°C/85°C; 
+- **Link**: [Download Dataset](https://osf.io/ju325/)
+- **Related Articles**:
+   - [A decade of insights: Delving into calendar aging trends and implications](https://www.cell.com/joule/fulltext/S2542-4351(24)00510-5)
 ---
 
 Links to external sites
