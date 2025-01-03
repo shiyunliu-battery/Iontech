@@ -297,6 +297,7 @@ The dataset contains over 3 billion data points from 228 commercial NMC/C+SiO li
   - [Challenges and opportunities in truck electrification revealed by big operational data](https://www.nature.com/articles/s41560-024-01602-x#Abs1)
 
 ### 38. Dataset - Dynamic cycling enhances battery lifetime
+The study presents a systematic comparison of dynamic discharge profiles, representative of electric vehicle driving, with constant-current discharge profiles, commonly used in laboratory testing. The results indicate that dynamic discharge profiles can extend the lifetime of lithium-ion batteries significantly. Specifically, under identical average current and voltage conditions, dynamic profiles result in up to a 38% increase in equivalent full cycles at the battery's end-of-life. This enhancement is attributed to the influence of low-frequency current pulses and time-induced aging, as revealed through explainable machine learning. These findings emphasize the necessity of incorporating realistic load profiles in the evaluation of new battery chemistries and designs to better understand aging mechanisms and improve battery performance.
 - **Link**: [Download Dataset](https://purl.stanford.edu/td676xr4322)
 - **Related Articles**:
   - [Dynamic cycling enhances battery lifetime](https://www.nature.com/articles/s41560-024-01675-8#data-availability)
