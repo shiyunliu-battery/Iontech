@@ -308,6 +308,30 @@ This dataset contains calendar aging from eight different cell types stored at 2
 - **Link**: [Download Dataset](https://osf.io/ju325/)
 - **Related Articles**:
    - [A decade of insights: Delving into calendar aging trends and implications](https://www.cell.com/joule/fulltext/S2542-4351(24)00510-5)
+
+
+### 40. Battery Capacity Prognostics Dataset for On-Road Electric Vehicles
+This dataset provides a comprehensive dataset for analyzing and predicting the capacity degradation of lithium-ion batteries in electric vehicles (EVs). Collected from 20 EVs over approximately 29 months, the dataset includes charging data, labeled capacity values derived from statistical methods, and features optimized through data-driven algorithms. 
+- **Link**: [Download Dataset](https://github.com/shiyunliu-battery/battery-charging-data-of-on-road-electric-vehicles)
+- **Related Articles**:
+   - [Prognostics of battery capacity based on charging data and data-driven methods for on-road vehicles](https://www.sciencedirect.com/science/article/pii/S0306261923003185#ab005)
+
+### 41. WMG-DIB Data
+This dataset provides a rich dataset for understanding battery performance degradation. It includes data from 25 cylindrical lithium-ion cells aged through controlled electrical cycling at 25°C to predefined SOH breakpoints (80%, 85%, 90%, 95%, and 100%). The dataset features reference performance tests (RPT), electrochemical impedance spectroscopy (EIS) measurements across various states of charge (SOC) and temperatures, and key metrics derived from EIS plots. 
+- **Link**: [Download Dataset](https://data.mendeley.com/datasets/mn9fb7xdx6/3)
+- **Related Articles**:
+   - [Dataset for rapid state of health estimation of lithium batteries using EIS and machine learning: Training and validation](https://www.sciencedirect.com/science/article/pii/S2352340923002767)
+ 
+### 42. WMG Calendar Ageing Dataset - LGM50 Commercial Cells (39 Storage Conditions)
+The dataset presents comprehensive calendar aging data collected from commercial LGM50 lithium-ion cells under controlled storage conditions: Storage Temperatures: 0°C, 25°C, and 45°C; State of Charge (SOC): 13 distinct levels per temperature condition; Test Duration: Two-years per condition (on average).
+The dataset consists of MATLAB (.mat) files containing cell cycling results from Reference Performance Tests (RPTs) conducted throughout the aging study.
+
+- **Link**: [Download Dataset](https://zenodo.org/records/14577286)
+- **Related Articles**:
+   - [Lithium-Ion Battery Degradation Modelling Using Universal Differential Equations: Development of a Cost-Effective Parameterisation Methodology](https://www.sciencedirect.com/science/article/pii/S0306261924026059#sec1)
+ 
+
+
 ---
 
 Links to external sites
