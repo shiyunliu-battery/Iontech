@@ -330,6 +330,12 @@ The dataset consists of MATLAB (.mat) files containing cell cycling results from
 - **Related Articles**:
    - [Lithium-Ion Battery Degradation Modelling Using Universal Differential Equations: Development of a Cost-Effective Parameterisation Methodology](https://www.sciencedirect.com/science/article/pii/S0306261924026059#sec1)
  
+### 43. Cycle aging data of automotive-grade lithium ion battery cells under realistic and accelerated load conditions
+This data set contains cycle aging data from three automotive-grade NMC|Gr pouch cells (used in the VW ID.3) subjected to three different usage patterns over a duration of 3+ years. Please refer to the linked article for cell and measurement specifications. All measurements are provided as .txt files (raw files exported from the battery test system).
+
+- **Link**: [Download Dataset](https://mediatum.ub.tum.de/1748915)
+- **Related Articles**:
+   - [Understanding lithium-ion battery degradation in vehicle applications: Insights from realistic and accelerated aging tests using Volkswagen ID.3 pouch cells](https://www.sciencedirect.com/science/article/pii/S2352152X25000702#d1e2292)
 
 
 ---
