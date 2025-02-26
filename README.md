@@ -337,6 +337,10 @@ This data set contains cycle aging data from three automotive-grade NMC|Gr pouch
 - **Related Articles**:
    - [Understanding lithium-ion battery degradation in vehicle applications: Insights from realistic and accelerated aging tests using Volkswagen ID.3 pouch cells](https://www.sciencedirect.com/science/article/pii/S2352152X25000702#d1e2292)
 
+### 44. Retired lithium-ion batteries dataset
+- **Link**: [Download Dataset](https://zenodo.org/records/14562266)
+- **Related Articles**:
+   - [Capacity estimation of retired lithium-ion batteries using random charging segments from massive real-world data(https://www.sciencedirect.com/science/article/pii/S2666386425000438?dgcid=rss_sd_all#abs0020)
 
 ---
 
