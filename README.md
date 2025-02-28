@@ -340,12 +340,12 @@ This data set contains cycle aging data from three automotive-grade NMC|Gr pouch
 ### 44. Retired lithium-ion batteries dataset
 - **Link**: [Download Dataset](https://zenodo.org/records/14562266)
 - **Related Articles**:
-   - [Capacity estimation of retired lithium-ion batteries using random charging segments from massive real-world data(https://www.sciencedirect.com/science/article/pii/S2666386425000438?dgcid=rss_sd_all#abs0020)
+   - [Capacity estimation of retired lithium-ion batteries using random charging segments from massive real-world data](https://www.sciencedirect.com/science/article/pii/S2666386425000438?dgcid=rss_sd_all#abs0020)
 
 ### 45. Synthetic Duty Cycles from Real-World Autonomous Electric Vehicle Driving: Accompanying Data
 - **Link**: [Download Dataset](https://purl.stanford.edu/ky011nj6376)
 - **Related Articles**:
-   - [Synthetic duty cycles from real-world autonomous electric vehicle driving(https://www.sciencedirect.com/science/article/pii/S2666386423003314)
+   - [Synthetic duty cycles from real-world autonomous electric vehicle driving](https://www.sciencedirect.com/science/article/pii/S2666386423003314)
 
 ---
 
