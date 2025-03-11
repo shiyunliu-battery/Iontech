@@ -347,6 +347,14 @@ This data set contains cycle aging data from three automotive-grade NMC|Gr pouch
 - **Related Articles**:
    - [Synthetic duty cycles from real-world autonomous electric vehicle driving](https://www.sciencedirect.com/science/article/pii/S2666386423003314)
 
+### 46. Model-Constrained Deep Learning for Online Fault Diagnosis in Li-ion Batteries over Stochastic Conditions
+The authors utilize data uploaded from vehicle onboard Battery Management Systems (BMS) for network design. They have released a real-world vehicle dataset containing 18.2 million valid entries collected from 515 vehicles, which was gathered by the BMS data center on the cloud.
+The dataset primarily consists of data from three battery manufacturers, which, due to confidentiality restrictions, are referred to as DTI, QAS, and GIS in the paper. In addition to normal operating data, the dataset also includes four types of rare and critical safety failure samples: Thermal runaway, Electrolyte leakage, Internal short circuit, Excessive ageing.
+
+- **Link**: [Download Dataset](https://zenodo.org/records/10656500)
+- **Related Articles**:
+   - [Model-constrained deep learning for online  fault diagnosis in Li-ion batteries over stochastic conditions](https://www.nature.com/articles/s41467-025-56832-8)
+
 ---
 
 Links to external sites
