@@ -355,6 +355,12 @@ The dataset primarily consists of data from three battery manufacturers, which, 
 - **Related Articles**:
    - [Model-constrained deep learning for online  fault diagnosis in Li-ion batteries over stochastic conditions](https://www.nature.com/articles/s41467-025-56832-8)
 
+### 47. Data from: "Lithium-ion battery degradation: comprehensive cycle ageing data and analysis for commercial 21700 cells"
+These data were generated from battery cell ageing experiments that included break-in cycles and Reference Performance Tests (RPTs), alternating with performance checks and ageing cycles. Each cell was base-cooled at set temperatures using bespoke rigs, with full experimental details available in linked publications. The repository is structured according to each “Experiment,” containing folders for “Summary Data,” “Processed Timeseries Data,” and “Raw Data.” The “Summary Data” folder holds metrics such as capacity, resistance, degradation mode analysis, and ageing statistics. “Processed Timeseries Data” includes subtest-specific voltage, current, and temperature in .csv files, while “Raw Data” comprises proprietary .mpr and .mpt files. An “experimental_metadata” .xlsx and a Jupyter notebook are provided for straightforward data parsing, analysis, and visualization. 
+
+- **Link**: [Download Dataset](https://zenodo.org/records/10637534)
+- **Related Articles**:
+   - [Lithium-ion battery degradation: Comprehensive cycle ageing data and analysis for commercial 21700 cells](https://www.sciencedirect.com/science/article/pii/S0378775324001368#abs0015)
 ---
 
 Links to external sites
