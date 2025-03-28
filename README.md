@@ -361,6 +361,7 @@ These data were generated from battery cell ageing experiments that included bre
 - **Link**: [Download Dataset](https://zenodo.org/records/10637534)
 - **Related Articles**:
    - [Lithium-ion battery degradation: Comprehensive cycle ageing data and analysis for commercial 21700 cells](https://www.sciencedirect.com/science/article/pii/S0378775324001368#abs0015)
+   - [The importance of degradation mode analysis in parameterising lifetime prediction models of lithium-ion battery degradation](https://www.nature.com/articles/s41467-025-57968-3#Abs1)
 ---
 
 Links to external sites
