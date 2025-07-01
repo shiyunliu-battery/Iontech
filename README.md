@@ -367,6 +367,14 @@ These data were generated from battery cell ageing experiments that included bre
 - **Link**: [Download Dataset](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/THZTJC)
 - **Related Articles**:
   - [Thermal fault detection of lithium-ion battery packs through an integrated physics and deep neural network based model](https://www.nature.com/articles/s44172-025-00409-2#Abs1)
+ 
+ ### 49. Long-Term Sweat Testing Data for Second-Life Batteries
+- **Link**: [Download Dataset](https://repository.lboro.ac.uk/articles/online_resource/Long-Term_Sweat_Testing_Data_for_Second-Life_Batteries/28732490/2)
+- **Related Articles**:
+  - [Long-Term Sweat Testing Dataset for Second-Life Batteries](https://www.nature.com/articles/s41597-025-05360-7#Abs1)
+ 
+
+
 ---
 
 Links to external sites
