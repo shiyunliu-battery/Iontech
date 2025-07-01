@@ -369,6 +369,7 @@ These data were generated from battery cell ageing experiments that included bre
   - [Thermal fault detection of lithium-ion battery packs through an integrated physics and deep neural network based model](https://www.nature.com/articles/s44172-025-00409-2#Abs1)
  
  ### 49. Long-Term Sweat Testing Data for Second-Life Batteries
+ This dataset contains long-term cycling data from repurposed lithium-ion batteries originally used in electric vehicles and redeployed in second-life stationary energy storage applications. It includes data from six distinct use cases that simulate real-world scenarios such as time-of-use tariffs, PV-self consumption, and frequency response services. The raw data was recorded using a Chroma 17020 battery cycler and testing began in 2019. The testing is currently still on going and the repository will be periodically updated. Files were initially stored as large continuous logs and have been processed into individual charge-discharge cycles (in .csv format) for ease of use. The dataset supports research in battery ageing, second-life performance assessment, and state of health modelling.
 - **Link**: [Download Dataset](https://repository.lboro.ac.uk/articles/online_resource/Long-Term_Sweat_Testing_Data_for_Second-Life_Batteries/28732490/2)
 - **Related Articles**:
   - [Long-Term Sweat Testing Dataset for Second-Life Batteries](https://www.nature.com/articles/s41597-025-05360-7#Abs1)
