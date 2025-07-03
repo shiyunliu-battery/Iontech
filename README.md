@@ -369,12 +369,27 @@ These data were generated from battery cell ageing experiments that included bre
   - [Thermal fault detection of lithium-ion battery packs through an integrated physics and deep neural network based model](https://www.nature.com/articles/s44172-025-00409-2#Abs1)
  
  ### 49. Long-Term Sweat Testing Data for Second-Life Batteries
- This dataset contains long-term cycling data from repurposed lithium-ion batteries originally used in electric vehicles and redeployed in second-life stationary energy storage applications. It includes data from six distinct use cases that simulate real-world scenarios such as time-of-use tariffs, PV-self consumption, and frequency response services. The raw data was recorded using a Chroma 17020 battery cycler and testing began in 2019. The testing is currently still on going and the repository will be periodically updated. Files were initially stored as large continuous logs and have been processed into individual charge-discharge cycles (in .csv format) for ease of use. The dataset supports research in battery ageing, second-life performance assessment, and state of health modelling.
+This dataset contains long-term cycling data from repurposed lithium-ion batteries originally used in electric vehicles and redeployed in second-life stationary energy storage applications. It includes data from six distinct use cases that simulate real-world scenarios such as time-of-use tariffs, PV-self consumption, and frequency response services. The raw data was recorded using a Chroma 17020 battery cycler and testing began in 2019. The testing is currently still on going and the repository will be periodically updated. Files were initially stored as large continuous logs and have been processed into individual charge-discharge cycles (in .csv format) for ease of use. The dataset supports research in battery ageing, second-life performance assessment, and state of health modelling.
 - **Link**: [Download Dataset](https://repository.lboro.ac.uk/articles/online_resource/Long-Term_Sweat_Testing_Data_for_Second-Life_Batteries/28732490/2)
 - **Related Articles**:
   - [Long-Term Sweat Testing Dataset for Second-Life Batteries](https://www.nature.com/articles/s41597-025-05360-7#Abs1)
  
+ ### 50. Aging dataset LCO battery with mechanical measurements
 
+Aging dataset of a commercial 22Ah LCO-graphite pouch Li-Po battery.
+The cycling procedure involves aging steps consisting of 22 aging cycles at 1C CC discharge and C/2 CC-CV charge, with no pauses in between. Periodic RPTs are carried out after each aging step. In particular, two series of RPTs are alternated, referred to as RPT-A and RPT-B, with this pattern: 22 aging cycles -> RPT-A -> 22 aging cycles -> RPT-A + RPT-B -> repeat.
+The RPT-A consists of three high rate cycles (1C CC discharge and C/2 CC-CV charge) with 1 hour rest.
+The RPT-B consists of three high rate cycles (1C CC discharge and C/2 CC-CV charge) with 1 hour rest, one low rate cycle (C/20) and the HPPC test. In this way, high rate test cycles are carried out periodically every 25 cycles (22 aging + 3 test), whereas low rate test cycles and HPPC are carried out every 50 cycles. The exact number at which each reference performance test was carried out is reported in the sixth column of the data structure.
+
+In total, 1125 cycles were achieved untill SOH 70%.
+
+The cycling reference performance tests (high rate cycling 1C-C/2, and low rate cycling C/20-C/20) are reported in the MATLAB structure called Aging_Dataset_Cycling. On the other, the data of the HPPC tests are reported in the MATLAB structure called Aging_Dataset_HPPC.
+
+The data structure of cycling reference performance tests is a MATLAB cell organized so that in the first row there are data of RPT-A (high rate cycles), and in the second row the data of RPT-B (low rate cycles). In the first column there are discharge data, in the second column the charge data, in the third column the data recorded in the one hour rest after discharge and in the fourth column the data recorded in the one hour rest after charge. In each element of this 2x4 matrix there is a cell containing the structures referring to each reference performance tests. The different reference performance tests are organized so that in the row there are the reference performance tests carried out at different aging cycles (detailed in the vector in the sixth column of the main data structure) and in the column there are the tests repeated at the same aging cycles for statistical studies. Generally RPT-A tests are repeated three times and RPT-B tests are repeated one times. Then, each cell, e.g. D{1,1}{1,1} contains a structure with the data of that test coded as explained in the bullet list below.
+
+- **Link**: [Download Dataset](https://zenodo.org/records/14914172)
+- **Related Articles**:
+  - [Aging diagnostics in lithium-ion batteries with differential mechanical measurements](https://www.sciencedirect.com/science/article/pii/S0306261925002545#da1)
 
 ---
 
