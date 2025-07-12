@@ -391,6 +391,16 @@ The data structure of cycling reference performance tests is a MATLAB cell organ
 - **Related Articles**:
   - [Aging diagnostics in lithium-ion batteries with differential mechanical measurements](https://www.sciencedirect.com/science/article/pii/S0306261925002545#da1)
 
+
+ ### 51. Dataset of lithium-ion battery degradation based on a forklift mission profile for state-of-health estimation and lifetime prediction
+
+ - **Link**: [Download Dataset](https://www.sciencedirect.com/science/article/pii/S2352340923009228#abs0001)
+- **Related Articles**:
+  - [Dataset of lithium-ion battery degradation based on a forklift mission profile for state-of-health estimation and lifetime prediction](https://www.sciencedirect.com/science/article/pii/S2352340923009228#abs0001)
+  - [Sensitivity analysis for reliable state-of-health estimation based on battery partial charging](https://www.sciencedirect.com/science/article/pii/S2666386425002450?dgcid=rss_sd_all#appsec2)
+
+
+
 ---
 
 Links to external sites
