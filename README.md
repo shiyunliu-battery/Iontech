@@ -399,8 +399,12 @@ The data structure of cycling reference performance tests is a MATLAB cell organ
   - [Dataset of lithium-ion battery degradation based on a forklift mission profile for state-of-health estimation and lifetime prediction](https://www.sciencedirect.com/science/article/pii/S2352340923009228#abs0001)
   - [Sensitivity analysis for reliable state-of-health estimation based on battery partial charging](https://www.sciencedirect.com/science/article/pii/S2666386425002450?dgcid=rss_sd_all#appsec2)
 
-
-
+ ### 52. A dataset of over one thousand computed tomography scans of battery cells
+ 
+1015 commercially available batteries were scanned using a X-ray computed tomography system. These scans were processed into a set of images that capture the major axes of the battery. For cylindrical cells, these are radial and axial views of the battery. For pouch and prismatic cells, these are x-y, x-z, and y-z views of the battery.
+ - **Link**: [Download Dataset](https://plus.figshare.com/articles/dataset/A_dataset_of_over_one_thousand_computed_tomography_scans_of_battery_cells/25330501)
+- **Related Articles**:
+  - [A dataset of over one thousand computed tomography scans of battery cells](https://www.sciencedirect.com/science/article/pii/S235234092400581X?via%3Dihub)
 ---
 
 Links to external sites
