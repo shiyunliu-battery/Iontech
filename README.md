@@ -2,6 +2,9 @@ Welcome to our repository of open-source datasets and resources in the fields of
 
 We extend our gratitude to the original publishers and contributors of these datasets, whose efforts and generosity enable the broader community to build upon their work. Explore and contribute to foster collaboration and innovation in the energy storage domain.
 
+<img width="1024" height="575" alt="Battery_dataset_Shiyun Liu" src="https://github.com/user-attachments/assets/a5a94891-7dc1-40df-9cc0-14b69698baa6" />
+
+---
 ## Available Datasets
 
 ### 1. Multi-year field measurements of home storage systems and their use in capacity estimation
