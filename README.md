@@ -408,6 +408,21 @@ The data structure of cycling reference performance tests is a MATLAB cell organ
  - **Link**: [Download Dataset](https://plus.figshare.com/articles/dataset/A_dataset_of_over_one_thousand_computed_tomography_scans_of_battery_cells/25330501)
 - **Related Articles**:
   - [A dataset of over one thousand computed tomography scans of battery cells](https://www.sciencedirect.com/science/article/pii/S235234092400581X?via%3Dihub)
+
+ ### 53. An ultrasonic and deep-learning dataset for real-time State of Charge estimation in large-format lithium-ion cells
+
+ This dataset contains experimentally collected ultrasonic waveforms acquired from large-format lithium-ion pouch cells during controlled charging and discharging procedures. Four ultrasonic sensors were arranged around each cell, enabling multiple bidirectional actuator–receiver transmission paths. For every acquisition point, full raw waveforms were recorded together with the corresponding ground-truth State of Charge (SoC).
+
+The collected signals were processed into two complementary data forms:  
+(1) time-series CSV files containing the raw waveform amplitudes for each sensor pair, and  
+(2) waveform-derived image representations suitable for convolutional neural network–based transfer learning. Charging data follow the naming convention `SignalA_B_SoC_raw.csv`, while discharging data follow `SignalA_B_SoCD_raw.csv`, where A and B denote the actuator and receiver sensor IDs.
+
+ - **Link**: [Download Dataset](https://github.com/hfarhaditolie/Ultrasonic-SoC)
+- **Related Articles**:
+  - [Large format battery SoC estimation: An ultrasonic sensing and deep transfer learning predictions for heterogeneity](https://www.sciencedirect.com/science/article/pii/S2666546825001946#d1e652)
+  - [Ultrasonic guided waves as an indicator for the state-of-charge of Li-ion batteries](https://www.sciencedirect.com/science/article/pii/S0378775323005645)
+ 
+    
 ---
 
 Links to external sites
