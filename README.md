@@ -417,11 +417,18 @@ The collected signals were processed into two complementary data forms:
 (1) time-series CSV files containing the raw waveform amplitudes for each sensor pair, and  
 (2) waveform-derived image representations suitable for convolutional neural network–based transfer learning. Charging data follow the naming convention `SignalA_B_SoC_raw.csv`, while discharging data follow `SignalA_B_SoCD_raw.csv`, where A and B denote the actuator and receiver sensor IDs.
 
- - **Link**: [Download Dataset](https://github.com/hfarhaditolie/Ultrasonic-SoC)
+- **Link**: [Download Dataset](https://github.com/hfarhaditolie/Ultrasonic-SoC)
 - **Related Articles**:
   - [Large format battery SoC estimation: An ultrasonic sensing and deep transfer learning predictions for heterogeneity](https://www.sciencedirect.com/science/article/pii/S2666546825001946#d1e652)
   - [Ultrasonic guided waves as an indicator for the state-of-charge of Li-ion batteries](https://www.sciencedirect.com/science/article/pii/S0378775323005645)
+
+ ### 54. Battery Imaging Library
  
+The Battery Imaging Library (BIL) is an open and curated repository of battery imaging datasets spanning multiple imaging modalities and length scales. It includes data from single particles to full battery cells, comprising over 80 scans across 8 modalities and more than 500 billion voxels in total. The collection provides raw, reconstructed, and processed data, supporting multi-scale analysis, method development, and reproducible research in battery science.
+
+- **Link**: [Download Dataset](https://www.batteryimaginglibrary.com/search)
+- **Related Articles**:
+  - [Battery Imaging Library: Multi-length scale and multi-modal synchrotron and laboratory battery imaging data for all](https://chemrxiv.org/engage/chemrxiv/article-details/68d3b52b3e708a7649ffd0a5)
     
 ---
 
@@ -431,7 +438,6 @@ Links to external sites
 - [Data Dryad](https://datadryad.org/stash)
 - [Zenodo](https://zenodo.org/)
 - [Mendeley](https://data.mendeley.com/)
-- [Iontech.Cloud](https://iontech.cloud/)
 - [USABC](https://uscar.org/usabc/)
 - [US.Data.GOV](https://data.gov/)
 - [EPA](https://www.epa.gov/vehicle-and-fuel-emissions-testing/dynamometer-drive-schedules)
