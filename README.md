@@ -429,7 +429,15 @@ The Battery Imaging Library (BIL) is an open and curated repository of battery i
 - **Link**: [Download Dataset](https://www.batteryimaginglibrary.com/search)
 - **Related Articles**:
   - [Battery Imaging Library: Multi-length scale and multi-modal synchrotron and laboratory battery imaging data for all](https://chemrxiv.org/engage/chemrxiv/article-details/68d3b52b3e708a7649ffd0a5)
-    
+
+### 55. Lithium-ion battery pack cycling dataset with CC-CV charging and WLTP/constant discharge profiles
+
+This work presents a database of a Lithium-ion battery pack cycling test generated from a custom testbench that simulates dynamic driving conditions based on the WLTP cycle. The current profiles are derived from speed–time data using MATLAB/Simulink and a Tesla Model 3 vehicle model. The dataset includes the time series of cell voltages, currents, surface temperatures, and pack-level resistance across up to 36 cells arranged in three parallel branches. Data is recorded under controlled thermal conditions and stored in an efficient PARQUET format. The system uses a CAN bus architecture and commercial automotive BMS units to replicate in-vehicle communication constraints, enhancing the dataset’s relevance for real-world battery management system development and validation.
+
+- **Link**: [Download Dataset](https://dataverse.csuc.cat/dataset.xhtml?persistentId=doi:10.34810/data2395)
+
+ 
+  
 ---
 
 Links to external sites
