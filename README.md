@@ -444,7 +444,15 @@ This dataset comprises high-resolution (1-second) time-series measurements of ac
 - **Link**: [Download Dataset](https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/8KPDTW)
 - **Related Articles**:
   - [Unveiling Energy Dynamics of Battery Electric Vehicle Using High-Resolution Data](https://www.nature.com/articles/s41597-025-06148-5#Abs1)
-  
+
+### 57. Multi-Stage Lithium Ion Battery Aging Study
+
+This dataset presents a large-scale study of lithium-ion battery aging that jointly examines calendar and cycling effects in commercial Samsung INR21700-50E cells. In total, 279 cells were tested under 71 different aging scenarios implemented in two experimental phases. The first phase applied non-model-based experimental designs, including full-factorial and Latin hypercube sampling, to broadly explore degradation trends. The second phase combined model-based parameter-individual optimal experimental design with an additional non-model-based strategy to enable a systematic comparison of design approaches. Beyond its original purpose of assessing the advantages of optimal experimental design for battery aging studies, the dataset supports a wide range of secondary uses, such as data-driven lifetime prediction, parameterization of physics-based and empirical degradation models, and exploratory analyses aimed at revealing previously unobserved aging relationships.
+
+- **Link**: [Download Dataset](https://figshare.com/articles/dataset/Multi-Stage_Lithium_Ion_Battery_Aging_Study/25975315)
+- **Related Articles**:
+  - [A multi-stage lithium-ion battery aging dataset using various experimental design methodologies](https://www.nature.com/articles/s41597-024-03859-z#Abs1)
+
 ---
 
 Links to external sites
