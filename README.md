@@ -436,7 +436,14 @@ This work presents a database of a Lithium-ion battery pack cycling test generat
 
 - **Link**: [Download Dataset](https://dataverse.csuc.cat/dataset.xhtml?persistentId=doi:10.34810/data2395)
 
- 
+### 56. BEV energy dynamics dataset
+
+This dataset comprises high-resolution (1-second) time-series measurements of actual energy values associated with a battery electric vehicle, including the charger, the battery system, and auxiliary devices. It captures energy behavior across various operational modes—charging, driving, and parking—under diverse operational conditions. By providing a detailed view of energy distribution, this dataset enables a range of analytical and practical applications, such as optimizing smart charging strategies, reducing operational costs, analyzing usage patterns, improving the efficiency of high energy-consuming components, developing AI-based predictive models, and assessing the vehicle’s impact on the power grid. Overall, it offers a rich foundation for advancing research in electric mobility, energy efficiency, and intelligent energy management. 
+
+
+- **Link**: [Download Dataset](https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/8KPDTW)
+- **Related Articles**:
+  - [Unveiling Energy Dynamics of Battery Electric Vehicle Using High-Resolution Data](https://www.nature.com/articles/s41597-025-06148-5#Abs1)
   
 ---
 
