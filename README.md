@@ -459,8 +459,7 @@ This dataset contains detailed operational data from real-world field trials of 
 
 - **Link**: [Download Dataset](https://publications.rwth-aachen.de/record/1015732)
 - **Related Articles**:
-  - [Improving Real-World Execution of Optimized Trading Schedules for Large-Scale Battery Storage Systems through Data-Driven Component Parametrization: Dataset](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://publications.rwth-aachen.de/record/1015732/files/Supplementary_file.pdf)
-
+  - [Improving Real-World Execution of Optimized Trading Schedules for Large-Scale Battery Storage Systems through Data-Driven Component Parametrization: Dataset](https://publications.rwth-aachen.de/record/1015732/files/Supplementary_file.pdf)
 
 ---
 
