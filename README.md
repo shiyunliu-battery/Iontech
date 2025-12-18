@@ -469,7 +469,7 @@ Links to external sites
 - [Battery Archive](https://batteryarchive.org/)
 - [Data Dryad](https://datadryad.org/stash)
 - [Zenodo](https://zenodo.org/)
-- Battery-charts(https://battery-charts.de/)
+- [Battery-charts](https://battery-charts.de/)
 - [Mendeley](https://data.mendeley.com/)
 - [USABC](https://uscar.org/usabc/)
 - [US.Data.GOV](https://data.gov/)
