@@ -453,6 +453,15 @@ This dataset presents a large-scale study of lithium-ion battery aging that join
 - **Related Articles**:
   - [A multi-stage lithium-ion battery aging dataset using various experimental design methodologies](https://www.nature.com/articles/s41597-024-03859-z#Abs1)
 
+### 58. Improving Real-World Execution of Optimized Trading Schedules for Large-Scale Battery Storage Systems through Data-Driven Component Parametrization: Dataset
+
+This dataset contains detailed operational data from real-world field trials of a hybrid battery energy storage system in Aachen, Germany. It offers second-by-second measurements of power flows, state of charge at both unit and system level, and grid interaction, alongside the corresponding optimized dispatch schedules. By capturing results from two different test configurations, the dataset allows for direct evaluation of modeling improvements, schedule accuracy, and system efficiency. It is well suited for studies on battery storage optimization, validation of market-based dispatch strategies, and performance analysis of grid-connected energy storage systems.
+
+- **Link**: [Download Dataset](https://publications.rwth-aachen.de/record/1015732)
+- **Related Articles**:
+  - [Improving Real-World Execution of Optimized Trading Schedules for Large-Scale Battery Storage Systems through Data-Driven Component Parametrization: Dataset](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://publications.rwth-aachen.de/record/1015732/files/Supplementary_file.pdf)
+
+
 ---
 
 Links to external sites
