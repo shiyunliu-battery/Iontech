@@ -462,6 +462,15 @@ This dataset contains detailed operational data from real-world field trials of 
   - [Improving Real-World Execution of Optimized Trading Schedules for Large-Scale Battery Storage Systems through Data-Driven Component Parametrization: Dataset](https://publications.rwth-aachen.de/record/1015732/files/Supplementary_file.pdf)
 
 
+### 59. Rate Capability Tests, OCV Measurements, Impedance and Half-Cell Measurements of Sodium-Ion and Lithium-Iron-Phosphate Batteries: Dataset
+
+This dataset contains comprehensive electrochemical characterization data of commercial rechargeable batteries, including two sodium-ion batteries with layered oxide cathodes and one lithium-ion battery with a lithium-iron-phosphate (LFP) cathode. It provides full-cell and half-cell open-circuit voltage (OCV) measurements (pseudo-OCV and GEIS-based OCV), galvanostatic electrochemical impedance spectroscopy (GEIS), direct current resistance (R-DC), and rate capability test results. The data were collected through controlled laboratory experiments and form the experimental basis for a systematic comparison of electrical performance between sodium-ion and lithium-ion technologies. The dataset is well suited for battery modeling, parameter identification, impedance analysis, low-rate and high-rate performance evaluation, and comparative studies of emerging sodium-ion chemistries.
+
+- **Link**: [Download Dataset](https://doi.org/10.14459/2024mp1762675)
+- **Related Articles**:
+  - [Comparing the electrical performance of commercial sodium-ion and lithium-iron-phosphate batteries](https://www.sciencedirect.com/science/article/pii/S0378775325001260#d1e1398)
+
+
 ---
 
 Links to external sites
