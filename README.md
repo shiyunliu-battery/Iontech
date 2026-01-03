@@ -470,6 +470,11 @@ This dataset contains comprehensive electrochemical characterization data of com
 - **Related Articles**:
   - [Comparing the electrical performance of commercial sodium-ion and lithium-iron-phosphate batteries](https://www.sciencedirect.com/science/article/pii/S0378775325001260#d1e1398)
 
+### 60. Battery failure detection and FPI estimation during cycling-to-failure
+
+- **Link**: [Download Dataset](https://zenodo.org/records/17651045)
+- **Related Articles**:
+  - [Seeing the unseen: Real-time tracking of battery cycling-to-failure via surface strain](https://www.cell.com/joule/fulltext/S2542-4351(25)00453-2)
 
 ---
 
