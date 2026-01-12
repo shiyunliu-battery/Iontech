@@ -476,6 +476,14 @@ This dataset contains comprehensive electrochemical characterization data of com
 - **Related Articles**:
   - [Seeing the unseen: Real-time tracking of battery cycling-to-failure via surface strain](https://www.cell.com/joule/fulltext/S2542-4351(25)00453-2)
 
+### 61. Electric Vehicle Usage Data Set for Battery Aging Studies
+This dataset contains real-world field measurements from 28 portable 24 V lithium iron phosphate (LFP) battery systems, each built with 8 prismatic cells in series (with cell-level voltage sensing, one pack current sensor, and four temperature sensors placed between adjacent cells) and operated for up to 5 years. The systems include active cell balancing, and the recorded time-series data spans from one month to five years per unit, totalling **~133 million rows**. Note that all units were returned to the manufacturer due to abnormal/unsatisfactory behaviour, so the dataset is biased toward problematic systems and is not representative of the full population.
+
+- **Link**: [Download Dataset](https://github.com/TUMFTM/electric-vehicle-uds-dataset/tree/main)
+- **Related Articles**:
+  - [Lab-to-field gap in battery aging studies: Mismatch of operating conditions between laboratory environments and real-world automotive applications](https://www.sciencedirect.com/science/article/pii/S2590116825001250?via%3Dihub#d1e4342)
+ 
+  - 
 ---
 
 Links to external sites
