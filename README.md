@@ -482,8 +482,21 @@ This dataset contains real-world field measurements from 28 portable 24 V lithiu
 - **Link**: [Download Dataset](https://github.com/TUMFTM/electric-vehicle-uds-dataset/tree/main)
 - **Related Articles**:
   - [Lab-to-field gap in battery aging studies: Mismatch of operating conditions between laboratory environments and real-world automotive applications](https://www.sciencedirect.com/science/article/pii/S2590116825001250?via%3Dihub#d1e4342)
- 
-  - 
+
+
+### 62. Mechanistically Guided Residual Learning Dataset for Battery State Monitoring
+
+This dataset accompanies a mechanistically guided residual learning framework for battery state monitoring across the full life span. It combines electrochemical characterisation data and long-term cycling data from both prismatic and pouch lithium-ion cells, together with reproducible Python code used to generate all reported results.
+
+The data include open-circuit voltage (OCV) measurements and cycling trajectories for different cell formats, enabling joint analysis of physics-based features and data-driven residual learning across ageing stages. The accompanying code implements the residual learning framework and supports end-to-end reproduction of figures and state-monitoring results reported in the associated study.
+
+This dataset is suitable for research on battery state estimation, hybrid physics–machine learning methods, feature attribution and interpretability, and full-life degradation modelling.
+
+
+- **Link**: [Download Dataset](https://zenodo.org/records/17591942)
+- **Related Articles**:
+  - [Mechanistically guided residual learning for battery state monitoring throughout life](https://www.nature.com/articles/s41467-025-67565-z#Abs1)
+
 ---
 
 Links to external sites
