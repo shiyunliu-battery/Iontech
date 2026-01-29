@@ -497,6 +497,15 @@ This dataset is suitable for research on battery state estimation, hybrid physic
 - **Related Articles**:
   - [Mechanistically guided residual learning for battery state monitoring throughout life](https://www.nature.com/articles/s41467-025-67565-z#Abs1)
 
+### 63. UConn LCO/Gr Battery Fast Charging Dataset
+
+This dataset comprises 76 Powerstream LiR2032 Li-ion coin cells with a lithium cobalt oxide/graphite (LCO/Gr) chemistry, assembled to quantify Coulombic efficiency and long-term degradation under fast-charging conditions.
+
+The data include results from 40 cells tested with SOC-sweep experiments and 36 cells evaluated under benchmark fast-charging protocols. SOC-sweep tests were performed at four target SOH levels (100%, 90%, 80%, 70%) and across 1.5C–3.5C charge rates to characterise how Coulombic efficiency varies with SOC, C-rate, and ageing state. Benchmark tests consist of repeated charge–discharge cycling blocks interleaved with reference performance tests (RPTs) for capacity measurement, continued until end-of-life at 70% remaining capacity, under controlled ambient conditions (~25 °C).
+
+- **Link**: [Download Dataset](https://digitalcommons.lib.uconn.edu/reil_datasets/4/)
+- **Related Articles**:
+  - [Coulombic efficiency-driven optimization of health-aware charging protocols: an experimental investigation on LCO/graphite lithium-ion cells](https://pubs.rsc.org/en/content/articlelanding/2026/ta/d5ta09520d)
 ---
 
 Links to external sites
