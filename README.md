@@ -1,6 +1,6 @@
-Welcome to our repository of open-source datasets and resources in the fields of battery monitoring and modeling! This platform serves as a comprehensive hub for researchers, engineers, and enthusiasts to access high-quality datasets, tools, and articles that empower advancements in battery technologies.
+This repository curates open-source datasets and resources in battery monitoring and modelling. It aims to help researchers and engineers quickly find datasets for state estimation, degradation analysis, and thermal–electrochemical modelling, and to support reproducible benchmarking across studies.
 
-We extend our gratitude to the original publishers and contributors of these datasets, whose efforts and generosity enable the broader community to build upon their work. Explore and contribute to foster collaboration and innovation in the energy storage domain.
+We gratefully acknowledge the original publishers and contributors of these datasets. Please cite the original sources and follow the licence terms when using the data.
 
 <img width="1024" height="575" alt="Battery_dataset_Shiyun Liu" src="https://github.com/user-attachments/assets/a5a94891-7dc1-40df-9cc0-14b69698baa6" />
 
