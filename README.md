@@ -506,6 +506,15 @@ The data include results from 40 cells tested with SOC-sweep experiments and 36 
 - **Link**: [Download Dataset](https://digitalcommons.lib.uconn.edu/reil_datasets/4/)
 - **Related Articles**:
   - [Coulombic efficiency-driven optimization of health-aware charging protocols: an experimental investigation on LCO/graphite lithium-ion cells](https://pubs.rsc.org/en/content/articlelanding/2026/ta/d5ta09520d)
+
+### 64. Data repository for 'Electrochemical-thermal modelling of high power Li-ion pouch cells'
+
+This data repository provides experimentally measured electrochemical and thermal responses of a large-format lithium-ion pouch cell with a lithium iron phosphate/graphite (LFP/Gr) chemistry, intended for the study of high-power operation. The dataset is based on a series of controlled laboratory experiments combining constant-current charge and discharge tests with pulse-based protocols over a broad range of operating conditions. Measurements were conducted at multiple states of charge and C-rates spanning moderate to highly aggressive regimes (up to 10C), enabling detailed observation of both transient and steady-state behaviour. High-resolution lock-in thermography was employed to capture spatially resolved heat generation alongside electrical responses, allowing joint analysis of thermal dynamics and electrochemical performance. The dataset is designed to support electrochemical–thermal modelling, validation of coupled simulation frameworks, and investigation of power-related limitations relevant to automotive and other high-demand applications.
+
+- **Link**: [Download Dataset](https://ora.ox.ac.uk/objects/uuid:fe9bad3e-8a72-4e3b-8f01-fec3324b6758)
+- **Related Articles**:
+  - [Electrochemical–thermal modelling of high power Li-ion pouch cells](https://www.sciencedirect.com/science/article/pii/S037877532502600X#d1e884)
+
 ---
 
 Links to external sites
