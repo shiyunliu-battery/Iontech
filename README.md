@@ -515,6 +515,13 @@ This data repository provides experimentally measured electrochemical and therma
 - **Related Articles**:
   - [Electrochemical–thermal modelling of high power Li-ion pouch cells](https://www.sciencedirect.com/science/article/pii/S037877532502600X#d1e884)
 
+### 65. Discovery Learning predicts battery cycle life from minimal experiments
+This paper’s primary (new) dataset is an industrial-grade ageing dataset of 123 large-format (73–84 Ah) lithium-ion pouch cells, spanning eight cell types (PA-b1/PA-b2/PA-b3, PB-b1/PB-b2, PC-b1/PC-b2, PD) with varied material–design combinations and cycling protocols: most cells use NMC811 cathodes with graphite anodes, while the PD type uses an NMC9 cathode with a Si–C composite anode (10 wt% Si); cells are cycled under diverse conditions (temperature and charge/discharge C-rates, including constant-current discharge, EV-like dynamic discharge, and multistep charging with a constant-voltage step), and the dataset provides full capacity-retention trajectories and cycle-life labels (defined at 90% capacity retention) with lifetimes spanning roughly 250–1,700 equivalent full cycles, plus high-resolution early-cycle data (first 50 EFCs); repeated tests are organised into 37 groups of near-identical chemistry/design/protocol to capture manufacturing variability at both cell and group level.
+- **Link**: [Download Dataset](https://zenodo.org/records/17654407)
+- **Related Articles**:
+  - [Discovery Learning predicts battery cycle life from minimal experiments](https://www.nature.com/articles/s41586-025-09951-7#Abs1)
+    
+
 ---
 
 Links to external sites
