@@ -2,7 +2,11 @@ This repository curates open-source datasets and resources in battery monitoring
 
 We gratefully acknowledge the original publishers and contributors of these datasets. Please cite the original sources and follow the licence terms when using the data.
 
+For battery cycler data standardisation and conversion, see [`battery-data-standard`](https://github.com/shiyunliu-battery/battery-data-standard), a Python library and command-line tool for converting vendor exports into analysis-ready BDF-style CSV and Parquet files.
+
+
 <img width="1024" height="575" alt="Battery_dataset_Shiyun Liu" src="https://github.com/user-attachments/assets/a5a94891-7dc1-40df-9cc0-14b69698baa6" />
+
 
 ---
 ## Available Datasets
