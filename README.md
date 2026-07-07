@@ -525,7 +525,14 @@ This paper’s primary (new) dataset is an industrial-grade ageing dataset of 12
 - **Related Articles**:
   - [Discovery Learning predicts battery cycle life from minimal experiments](https://www.nature.com/articles/s41586-025-09951-7#Abs1)
     
+### 66. Industry-Standard ECM Parameter Set and Validation Data for the Molicel INR21700-P45B Cylindrical Cell
 
+This dataset provides equivalent circuit model (ECM) parameter sets and comprehensive characterisation and validation data for the high-power Molicel INR21700-P45B cylindrical cell. It includes base and charge-optimised ECM lookup tables, cycling data across 10–60 °C, low- and high-rate charge/discharge tests, GITT, WLTP automotive drive cycles, and eVTOL launch–cruise–landing duty cycles. The release also includes model validation results and data-format documentation, making it suitable for ECM development, parameterisation, benchmarking, and validation.
+
+- **Link**: [Download Dataset](https://doi.org/10.5281/zenodo.19052626)
+- **Related Articles**:
+  - [An Industry-Standard Parameterisation of a Lithium-Ion Battery Equivalent Circuit Model for a High-Power Cylindrical Cell: Molicel P45B](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6861858)
+    
 ---
 
 Links to external sites
